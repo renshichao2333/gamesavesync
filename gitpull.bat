@@ -12,3 +12,4 @@ cd %git_folder%
 git pull origin %git_branch%
 
 echo Done.
+pause

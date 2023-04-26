@@ -31,3 +31,4 @@ echo Pushing changes to %git_branch% branch...
 git push origin %git_branch%
 
 echo Done.
+pause
